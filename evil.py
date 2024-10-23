@@ -193,7 +193,7 @@ ciphertext = cipher.encrypt(pad(flag, AES.block_size))
 
 
 # ECB Decrypt
-#key = key1 + key2+ key3
+#key = key1 + key2
 cipher = AES.new(key, AES.MODE_ECB)
 plaintext = unpad(cipher.decrypt(ciphertext), AES.block_size)
 
