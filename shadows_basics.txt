@@ -20,7 +20,8 @@ Shadows are also integral to navigation for animals. Many species, including ins
 
 Shadows have inspired artists for centuries. They are often used symbolically, representing themes such as mystery, fear, or the unknown. In visual arts, shadows add depth and realism, creating a three-dimensional effect on two-dimensional surfaces. Artists like Caravaggio masterfully used chiaroscuro—the contrast of light and shadow—to enhance the emotional impact of their work.
 
-key2: or_cenriv
+key2: or_cen
+
 
 In literature, shadows can symbolize a range of concepts, from guilt and repression to the presence of a looming threat. They evoke feelings of nostalgia, loss, and introspection. In many cultures, shadows are associated with the spiritual realm, embodying the idea of duality—light and dark, life and death.
 
